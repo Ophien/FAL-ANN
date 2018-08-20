@@ -7,4 +7,4 @@ It is faster, more stable, categorizes better than the ARAM model. Moreover, its
 
 The provided code is under development of an ungoing research, and is under the MiT license. Any attempt of plagiarism will be treated legally.
 
-The provided code deploy the FAL-ANN, as a replication of the minefield navigation simulator and the ARAM model with a FALCON architecture. A further tutorial, on how to use the code, will be added as soon as possible.
+The provided code deploys the FAL-ANN, as a replication of the minefield navigation simulator and the ARAM model with a FALCON architecture. A further tutorial, on how to use it, will be added as soon as possible.
